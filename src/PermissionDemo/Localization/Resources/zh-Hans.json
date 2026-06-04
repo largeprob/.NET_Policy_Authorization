@@ -1,0 +1,11 @@
+{
+  "Permission:BookStore": "书店",
+  "Permission:BookStore.Books": "书籍管理",
+  "Permission:BookStore.Books.Create": "创建书籍",
+  "Permission:BookStore.Books.Edit": "编辑书籍",
+  "Permission:BookStore.Books.Delete": "删除书籍",
+  "Permission:BookStore.Authors": "作者管理",
+  "Permission:BookStore.Authors.Create": "创建作者",
+  "Permission:BookStore.Authors.Edit": "编辑作者",
+  "Permission:BookStore.Authors.Delete": "删除作者"
+}

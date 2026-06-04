@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Advanced/02Advanced.csproj" Id="962ee9d4-6859-4846-9064-cffa269691b8" />
+    <Project Path="src/BasicDemo/01BasicDemo.csproj" Id="17365885-2ae5-491d-a8f6-a7b51ffc0ec2" />
+    <Project Path="src/PermissionDemo/PermissionDemo.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,11 @@
+{
+  "Permission:BookStore": "Book Store",
+  "Permission:BookStore.Books": "Book Management",
+  "Permission:BookStore.Books.Create": "Create Books",
+  "Permission:BookStore.Books.Edit": "Edit Books",
+  "Permission:BookStore.Books.Delete": "Delete Books",
+  "Permission:BookStore.Authors": "Author Management",
+  "Permission:BookStore.Authors.Create": "Create Authors",
+  "Permission:BookStore.Authors.Edit": "Edit Authors",
+  "Permission:BookStore.Authors.Delete": "Delete Authors"
+}
